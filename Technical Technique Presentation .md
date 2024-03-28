@@ -2,17 +2,17 @@
 <img src=https://github.com/Derathelion/Capstone/blob/main/img%20tr.jpg>
 
 ## Introduction
-- Brief overview of the presentation topic
-- Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
-- Objectives of the presentation
+- I was Put in a Team to show a Technical Technique in Data Wrangling and the technique i will be showing is how to Generate Unseen Data.
+- This presentation aims to show how to generate an unseen data from a fraction of a data for machine learning. ie Regression or Classification.
 
 ## Background
-- Current state of technology in the domain
-- Challenges and opportunities
+- Data Wrangling will be done in Python using Jupiter Notebook. The Python Library i will use is Pandas.
+- Pandas offer a variety of functions which make data wrangling less challenging.  
 
 ## Presentation Candidate
-- Name and background of the presenter
-- Relevant experience and expertise
+- Chidera Ubanatu. Bsc Pure and Industrial Chemistry.
+- Business Inteligence Analysis student at NSCC.
+- Data Skills: Python, SQL, PowerBI Report.
 
 ## Sample Data Selection
 - Criteria for selecting sample data
