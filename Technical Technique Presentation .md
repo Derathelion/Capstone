@@ -1,5 +1,5 @@
 # Technical Technique Presentation Proposal
-
+<src=https://github.com/Derathelion/Capstone/blob/main/Technical%20report.jpg>
 ## Introduction
 - Brief overview of the presentation topic
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
