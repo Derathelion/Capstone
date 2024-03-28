@@ -1,5 +1,5 @@
 # Technical Technique Presentation Proposal
-<img src=https://github.com/Derathelion/Capstone/blob/main/Technical%20report.jpg>
+<img src=https://github.com/Derathelion/Capstone/blob/main/img%20tr.jpg>
 
 ## Introduction
 - Brief overview of the presentation topic
