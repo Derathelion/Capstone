@@ -1,4 +1,4 @@
-# Business Intelligence Presentation Proposal
+# Business Intelligence Presentation Proposal 
 <img src=https://github.com/Derathelion/Capstone/blob/main/mBusiness-intelligence.jpg>
 
 ## Introduction
