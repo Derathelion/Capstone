@@ -3,7 +3,7 @@
 
 ## Introduction
 - I was Put in a Team to show a Technical Technique in Data Wrangling and the technique i will be showing is how to Generate Unseen Data.
-- This presentation aims to show how to generate an unseen data from a fraction of a data for machine learning. ie Regression or Classification.
+- This presentation aims to show how to generate an Unseen Data from a fraction of a data for machine learning. ie Regression or Classification.
 
 ## Background
 - Data Wrangling will be done in Python using Jupiter Notebook. The Python Library i will use is Pandas.
@@ -15,13 +15,13 @@
 - Data Skills: Python, SQL, PowerBI Report.
 
 ## Sample Data Selection
-- Criteria for selecting sample data
-- Sources of sample data
-- Relevance of the data to the demonstration
+- This Data was selected so we can split the data to predict Sales features.
+- This Data set was sourced from Kaggle https://www.kaggle.com/datasets/thorgodofthunder/tvradionewspaperadvertising/code
+- It has 200 records and 4 features.
 
 ## Technical Technique Demonstration
-- Description of the technical technique
-- Steps for applying the technique to the sample data
+- Data wrangling, also known as data munging or data preprocessing, is the process of cleaning, transforming, and enriching raw data to make it suitable for analysis.
+- Steps to take: Read in the csv file, 
 - Expected outcomes and benefits
 
 ## Implementation Plan
