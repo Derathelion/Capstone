@@ -2,7 +2,7 @@
 <img src=https://github.com/Derathelion/Capstone/blob/main/mBusiness-intelligence.jpg>
 
 ## Introduction
-- Business intelligence (BI) refers to the use of data analysis tools and techniques to extract actionable insights from raw data. In the presentation i will be showing some Businesss Intelligence technique
+- Business intelligence (BI) refers to the use of data analysis tools and techniques to extract actionable insights from raw data. In this presentation i will be showing some Businesss Intelligence technique
   which involves collecting, analyzing, and presenting data to support decision-making processes within an organization.
 - Goals of the presentation is to leverage Data-driven decision-making which involves using data analysis to inform business strategies and actions. 
 
