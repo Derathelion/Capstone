@@ -21,21 +21,21 @@
 
 ## Technical Technique Demonstration
 - Data wrangling, also known as data munging or data preprocessing, is the process of cleaning, transforming, and enriching raw data to make it suitable for analysis.
-- Steps to take: 1. Read in the csv file,
-                 2. Do Exploratory Data Analysis like getting the shape of the data
-                 3. Generate Unseen Data
-                 4. Drop the unseen Data from the Data and load it to a Data Frame
-                 5. Export the data to a csv file.
-- Thia will help you to run a machine learnng model and test on both the Data taine and the Unseen data.
+- Steps to take: (1). Read in the csv file,
+                 (2). Do Exploratory Data Analysis like getting the shape of the data
+                 (3). Generate Unseen Data
+                 (4). Drop the unseen Data from the Data and load it to a Data Frame
+                 (5). Export the data to a csv file.
+- This will help you to run a machine learnng model and test on both the Data taine and the Unseen data.
 
 ## Implementation Plan
--. Day 1. Get a sample Data
+- Day 1. Get a sample Data
 - Day 2. Load the data to pandas using jupyter notebook and execute your code. 
 - Entire presentaion was done in Python using Pandas in Jupyter notebook.
 - Two Practice sessions and one dry run
 
 ## Conclusion
-- This presentation will achieve a Technical technique in Data Wrangling using pandas it will showw some data cleaning and exploratory data analysis.
+- This presentation will achieve a Technical technique in Data Wrangling using pandas it will show some data cleaning techniques and exploratory data analysis.
   Also it will show how to split a fraction of a data to be used for machine learning.
 
 ## Appendices
