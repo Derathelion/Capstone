@@ -2,9 +2,10 @@
 <img src=https://github.com/Derathelion/Capstone/blob/main/mBusiness-intelligence.jpg>
 
 ## Introduction
-- Overview of the business intelligence topic
-- Significance of data-driven decision-making
-- Goals of the presentation
+- Business intelligence (BI) refers to the use of data analysis tools and techniques to extract actionable insights from raw data.
+  It involves collecting, analyzing, and presenting data to support decision-making processes within an organization
+- Data-driven decision-making involves using data analysis to inform business strategies and actions. Goals of the presentation is to By leveraging data, organizations can make informed decisions based on evidence rather than intuition 
+  
 
 ## Presentation Candidate
 - Name and professional background
