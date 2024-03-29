@@ -12,24 +12,27 @@
 - Data Skills: Python, SQL, PowerBI Report.
   
 ## Data Selection
-- Criteria for choosing the dataset
-- This Data set was sourced from Kaggle https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-- Relevance of the chosen data to the business domain
+- The Superstore dataset was selected for its richness and diversity of data, including sales, customer, and product information. It allows for comprehensive analysis and visualization of various business metrics.
+- This Data set was sourced from Kaggle https://www.kaggle.com/datasets/vivek468/superstore-dataset-final.
+- The Superstore dataset is a US retail company's operations, making it relevant to businesses in the retail industry. The insights derived from this dataset can be applied to improve sales, customer satisfaction, and operational efficiency.
 
 ## Business Intelligence Techniques Demonstration
-- Overview of the selected business intelligence techniques
-- Process of applying these techniques to the chosen data
-- Anticipated insights and their impact on business strategies
+- The presentation will showcase various BI techniques, including Exploratory Data Analysis, Data Wrangling and Data Visualization.
+- I will demonstrate how to explore and analyze the Superstore dataset using BI tools such as Pandas, SQL and Power BI. I will walk through the process of creating interactive visualizations, performing trend analysis, and increase revenue.
+- The presentation aims to uncover insights related to sales trends, customer behaviour, and product performance. These insights can inform strategic decisions such as inventory management, marketing campaigns, and pricing strategies.
 
 ## Implementation Plan
-- Schedule for the development of the presentation
-- Necessary resources (BI tools, datasets, etc.)
-- Rehearsals and feedback sessions
+- Data Exploration and Analysis: Week 1-2
+  Visualization Design and Development: Week 3-4
+  Presentation Preparation and Rehearsals: Week 5
+- Presentation was done in PowerBI, MS SSMS, Python using Pandas in Jupyter notebook.
+- Two Practice sessions and one dry run.
 
 ## Conclusion
-- Recap of the expected contributions of the presentation
-- Encouragement for audience engagement
-
+- This report proposal outlines the plan for creating a visualization report on the Superstore dataset, highlighting the importance of data-driven decision-making and the application of BI techniques in driving business 
+ insights.
+ 
 ## Appendices
-- Bibliography of business intelligence literature
-- Resources for additional learning and exploration
+- Kimball, R., & Ross, M. (2013). The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. John Wiley & Sons.
+- Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten. Analytics Press.
+- Superstore Dataset https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
