@@ -2,18 +2,18 @@
 <img src=https://github.com/Derathelion/Capstone/blob/main/mBusiness-intelligence.jpg>
 
 ## Introduction
-- Business intelligence (BI) refers to the use of data analysis tools and techniques to extract actionable insights from raw data.
-  It involves collecting, analyzing, and presenting data to support decision-making processes within an organization
-- Data-driven decision-making involves using data analysis to inform business strategies and actions. Goals of the presentation is to By leveraging data, organizations can make informed decisions based on evidence rather than intuition 
-  
+- Business intelligence (BI) refers to the use of data analysis tools and techniques to extract actionable insights from raw data. In the presentation i will be showing some Businesss Intelligence technique
+  which involves collecting, analyzing, and presenting data to support decision-making processes within an organization.
+- Goals of the presentation is to leverage Data-driven decision-making which involves using data analysis to inform business strategies and actions. 
 
 ## Presentation Candidate
-- Name and professional background
-- Experience with business intelligence tools and methodologies
-
+- Chidera Ubanatu. Bsc Pure and Industrial Chemistry.
+- Business Inteligence Analysis student at NSCC.
+- Data Skills: Python, SQL, PowerBI Report.
+  
 ## Data Selection
 - Criteria for choosing the dataset
-- Potential sources for data acquisition
+- This Data set was sourced from Kaggle https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Relevance of the chosen data to the business domain
 
 ## Business Intelligence Techniques Demonstration
