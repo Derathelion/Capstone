@@ -31,7 +31,7 @@
 ## Implementation Plan
 - Day 1. Get a sample Data
 - Day 2. Load the data to pandas using jupyter notebook and execute your code. 
-- Entire presentaion was done in Python using Pandas in Jupyter notebook.
+- Entire presentation was done in Python using Pandas in Jupyter notebook.
 - Two Practice sessions and one dry run
 
 ## Conclusion
