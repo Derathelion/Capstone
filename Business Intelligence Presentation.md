@@ -23,8 +23,8 @@
 
 ## Implementation Plan
 - Data Exploration and Analysis: Week 1-2
-  Visualization Design and Development: Week 3-4
-  Presentation Preparation and Rehearsals: Week 5
+- Visualization Design and Development: Week 3-4
+- Presentation Preparation and Rehearsals: Week 5
 - Presentation was done in PowerBI, MS SSMS, Python using Pandas in Jupyter notebook.
 - Two Practice sessions and one dry run.
 
